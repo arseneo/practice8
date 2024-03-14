@@ -1,8 +1,6 @@
 package com.mycompany.practice8;
 
 import java.util.ArrayList;
-import java.util.Collections;
-import java.util.Comparator;
 import java.util.Scanner;
 
 class Telephone implements Comparable<Telephone>{
